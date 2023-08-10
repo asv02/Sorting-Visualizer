@@ -30,7 +30,7 @@ Available Controls inside Sorting Visualizer-
 - Use 6 to start Heap Sort Algorithm.
 - Use q to exit out of the Sorting Visualizer
 
-DEMO:-
+DEMO -:
 ![Step1](./samples/Step1.png)
 ![Step2](./samples/Step2.png)
 ![Step3](./samples/Step3.png)
