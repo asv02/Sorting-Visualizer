@@ -31,3 +31,9 @@ Available Controls inside Sorting Visualizer-
 - Use q to exit out of the Sorting Visualizer
 
 DEMO:-
+![Step1](./samples/Step1.png)
+![Step2](./samples/Step2.png)
+![Step3](./samples/Step3.png)
+![Step4](./samples/Step4.png)
+![Step5](./samples/Step5.png)
+
