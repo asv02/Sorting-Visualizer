@@ -16,7 +16,8 @@ An app that visualizes every sorting algorithm.
  
   After this, an executable file will be created which you can run.
 
-NOTE:- It is best to give the next command after the previous one has been completed, in order to minimize latency.
+NOTE:- 1. It is best to give the next command after the previous one has been completed, in order to minimize latency.
+       2. Provide the required option when a new window is opened.
   
 # Controls-
 Available Controls inside Sorting Visualizer-
@@ -28,3 +29,5 @@ Available Controls inside Sorting Visualizer-
 - Use 5 to start Quick Sort Algorithm.
 - Use 6 to start Heap Sort Algorithm.
 - Use q to exit out of the Sorting Visualizer
+
+DEMO:-
